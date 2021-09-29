@@ -45,3 +45,52 @@ section figure {
   display: flex;
   align-items: center;
 }
+footer {
+  background-color: white;
+  width: 100vw;
+}
+.espacio1 {
+  background-color: white;
+  width: 100vw;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+}
+.espacio2 {
+  background-color: white;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  font-size: 1.5rem;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.espacio2 div {
+  height: 6rem;
+  display: flex;
+  align-items: center;
+}
+div p {
+  font-size: 1.5rem;
+  padding-left: 3rem;
+  font-family: Arial, sans-serif;
+}
+div a {
+  color: black;
+  text-decoration: none;
+}
+div a:hover {
+  text-decoration: underline;
+}
+.adicional2 {
+  width: 5rem;
+  height: 100%;
+}
+.adicional1 {
+  width: 5rem;
+  height: 100%;
+}
+.adicional2 {
+  width: 5rem;
+  height: 100%;
+}
