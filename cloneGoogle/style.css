@@ -6,3 +6,42 @@
 html {
   font-size: 62.5%;
 }
+.icono-app img {
+  width: 16px;
+  height: 16px;
+}
+.icono-email img {
+  width: 32px;
+  height: 32px;
+}
+header a {
+  font-size: 1.3rem;
+  text-decoration: none;
+  color: black;
+  font-family: "Roboto", Arial, sans-serif;
+}
+header {
+  background-color: white;
+  width: 100vw;
+  height: 8vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: end;
+}
+header section {
+  display: flex;
+}
+.cont1 {
+  height: 3.52rem;
+  display: flex;
+  align-items: center;
+}
+.cont1 a {
+  padding-right: 2rem;
+}
+section figure {
+  padding-right: 2rem;
+  display: flex;
+  align-items: center;
+}
