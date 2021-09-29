@@ -50,14 +50,15 @@ footer {
   width: 100vw;
 }
 .espacio1 {
-  background-color: white;
+  background-color: #f2f2f2;
   width: 100vw;
   height: 6rem;
   display: flex;
   align-items: center;
+  border-bottom: 0.1rem solid #dadce0;
 }
 .espacio2 {
-  background-color: white;
+  background-color: #f2f2f2;
   width: 100vw;
   display: flex;
   align-items: center;
@@ -74,9 +75,10 @@ div p {
   font-size: 1.5rem;
   padding-left: 3rem;
   font-family: Arial, sans-serif;
+  color: #70757a;
 }
 div a {
-  color: black;
+  color: #70757a;
   text-decoration: none;
 }
 div a:hover {
